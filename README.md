@@ -19,3 +19,5 @@ It is used to learn and practice Git and GitHub version control.
 This project helps me understand the basic Git and GitHub workflow.
 ## Latest Update
 This file was edited after cloning the repository.
+## Collaborator Update
+A new update was added by a collaborator.
