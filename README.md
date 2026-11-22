@@ -17,3 +17,5 @@ It is used to learn and practice Git and GitHub version control.
 
 ## Conclusion
 This project helps me understand the basic Git and GitHub workflow.
+## Latest Update
+This file was edited after cloning the repository.
